@@ -1,0 +1,557 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Quakerism no paganism: or, A friendly reply to W.R. his unfriendly discourse intituled, Quakerism is paganism Shewing the insufficiency of what he hath written to unchristian the Quakers, and to render them as heathens and pagans to the people By W.L. a lover of peace more than of parties.</title>
+            <author>Loddington, William, 1626?-1711.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1674</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 79 KB of XML-encoded text transcribed from 36 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A48937</idno>
+            <idno type="STC">Wing L2805</idno>
+            <idno type="STC">ESTC R216893</idno>
+            <idno type="EEBO-CITATION">99828609</idno>
+            <idno type="PROQUEST">99828609</idno>
+            <idno type="VID">33040</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A48937)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 33040)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1915:7)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Quakerism no paganism: or, A friendly reply to W.R. his unfriendly discourse intituled, Quakerism is paganism Shewing the insufficiency of what he hath written to unchristian the Quakers, and to render them as heathens and pagans to the people By W.L. a lover of peace more than of parties.</title>
+                  <author>Loddington, William, 1626?-1711.</author>
+               </titleStmt>
+               <extent>[2], 62 p.   </extent>
+               <publicationStmt>
+                  <publisher>[s.n.],</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>printed in the year, 1674.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>W.L. = William Loddington. W.R. = William Russel.</note>
+                  <note>A reply to: Russel, William.  Quakerism is paganism.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Russel, William, d. 1702. --  Quakerism is paganism --  Controversial literature --  Early works to 1800.</term>
+               <term>Society of Friends --  Early works to 1800.</term>
+               <term>Quakerism --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-11</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-12</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-03</date>
+            <label>Susie Lorand</label>Sampled and proofread</change>
+         <change>
+            <date>2010-03</date>
+            <label>Susie Lorand</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:33040:1" rendition="simple:additions"/>
+            <p>QUAKERISM NO PAGANISM: OR, A FRIENDLY REPLY To <hi>W. R.</hi> his UNFRIENDLY DISCOURSE INTITULED. <hi>Quakeriſm is Paganiſm.</hi> SHEWING The Inſufficiency of what he hath Written to Unchriſtian the Quakers, and to render them as Heathens and Pagans to the People</p>
+            <p>By <hi>W. L.</hi> a Lover of Peace more than of Parties.</p>
+            <q>
+               <p>Let not them that are mine Enemies wrongfully Rejoyce over me.</p>
+               <p>For they ſpeak not Peace, but they deviſe deceitful matters againſt them that are quiet in the Land.</p>
+               <bibl>
+                  <hi>Pſal. 35.19.20.</hi>
+               </bibl>
+            </q>
+            <q>
+               <p>Nihil quidquam tam probe aut provide dic<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> poteſt, quod non vellicare malignitas poſſ<gap reason="illegible" resp="#UOM" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>.</p>
+               <bibl>
+                  <hi>Juſt. Lip. de u<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>â Relig.</hi>
+               </bibl>
+            </q>
+            <p>
+               <hi>London,</hi> Printed in the Year, 1674.</p>
+            <pb facs="tcp:33040:2" rendition="simple:additions"/>
+            <pb facs="tcp:33040:2"/>
+            <pb facs="tcp:33040:3" rendition="simple:additions"/>
+            <pb facs="tcp:33040:3" rendition="simple:additions"/>
+            <gap reason="duplicate" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:33040:4"/>
+            <pb n="1" facs="tcp:33040:4"/>
+            <head>To all called Non-Conformiſts, who are Lovers of Holyneſs, and Fol<g ref="char:EOLhyphen"/>lowers of Peace with all Men.</head>
+            <opener>
+               <salute>BELOVED BRETHREN,</salute>
+            </opener>
+            <p>MAny have been my Perils at Sea, and Perils at Land; and now, for your ſakes, I am brought to taſt of thoſe Perils, which the unkindneſs of ſome, and malice of other <hi>Falſe Brethren</hi> have caſt upon me. The occaſion they have taken is this;</p>
+            <p>No ſooner was a breathing ſpace of Liberty granted us, to Worſhip God according to our Conſciences; but pre<g ref="char:EOLhyphen"/>ſently the Spirit of Strife and Debate en<g ref="char:EOLhyphen"/>tred into the Sons of <hi>Diotrophes,</hi> and fill<g ref="char:EOLhyphen"/>ed Pulpits and Preſſes with Diſputations and Controverſies againſt an Innofenſive People about matters, in no moderate mans Judgment, Fundamentally neceſ<g ref="char:EOLhyphen"/>ſary to Salvation; and yet furiouſly preſt upon that account by thoſe, who other<g ref="char:EOLhyphen"/>wiſe could have no pretence for their impertinent Zeal.</p>
+            <pb n="2" facs="tcp:33040:5"/>
+            <p>When I ſaw this Imprudence could not contain it ſelf within the bonds of our re<g ref="char:EOLhyphen"/>ſpective Meeting places, nor quietly be lodged in Bookſellers ſhops, for thoſe only to read, and buy that took delight in matters of Controverſie; but that Books of that kind, full of bitter and diſ<g ref="char:EOLhyphen"/>gracing Language, were ſent to be cryed about the Streets, and in the Gates of our Exchange, to publiſh our Simplicity, and make us a Diſgrace, and a By word to the Merchants of all the Nations about us, who certainly could not but withal Pity us (though ſome do not pity them<g ref="char:EOLhyphen"/>ſelves) while we ſtabbed, and wounded with ſuch envious Tongues and Pens; I ſay, the ſight, and report of theſe things, ſo preſſed my Spirit, that I could not for<g ref="char:EOLhyphen"/>bear to write a few Lines, only that I might ſignifie what a deſire I had, and many more, to quench thoſe flames of Zeal, which under pretences of Truth, are burning up all Chriſtian Love and Charity among us.</p>
+            <p>I have good reaſon to ſay many, for I cannot meet with one ſober Chriſtian of any Church whatſoever, that is not grieved at heart for theſe unprofitable Aſſaults.</p>
+            <pb n="3" facs="tcp:33040:5"/>
+            <p>The Title I gave that ſmall Treatiſe, is, the <hi>Twelve Pagan Principles.</hi> This I foreſaw would make a fearful ſound: But I ſent it up with that name, that you in the City might know what Lan<g ref="char:EOLhyphen"/>guage ſome taught us in the Country by their mincing Negatives: for we know but one word in oppoſition to Chriſtiani<g ref="char:EOLhyphen"/>ty, and that is <hi>Heatheniſm</hi> or <hi>Paganiſm,</hi> though I confeſs this word <hi>Pagan,</hi> is not ſo common as <hi>Heathen,</hi> yet we know both ſignifie one thing. So that when you tell us the <hi>Quaker</hi> is no <hi>Chri<g ref="char:EOLhyphen"/>ſtian,</hi> what ſays every Plough man? then he muſt be a Heathen.</p>
+            <p>Again, Sometimes an odious and ſhameful Name brings a thing into con<g ref="char:EOLhyphen"/>tempt undeſervedly, much more when it is deſervedly and properly given. My Deſign was to make Diſputations of this kind contemptible, and therefore I did hope the Name might make them nau<g ref="char:EOLhyphen"/>ſeous to the people: And I have the A<g ref="char:EOLhyphen"/>poſtle for an Example, who when he went about to wean the Ceremonious <hi>Galatians</hi> from Elements, calls them weak and beggarly.</p>
+            <p>Soon after I had publiſhed my Obſer<g ref="char:EOLhyphen"/>vations
+<pb n="4" facs="tcp:33040:6"/>upon theſe Twelve Opinions, collected by <hi>T. H.</hi> out of his <hi>Dialogues,</hi> I was in hope to hear of more able and powerful Inſtruments (as little Pearcers make way for great ones) appearing in ſo ſeaſonable and honourable a work as Pacification; whoſe Wiſdome and Prudence might allay the noiſe of that Paſſion which ſo much hinders the ſound of Truth, and produce ſuch charitable thoughts, and friendly Correſpondency, that the Government under which we live, might be encouraged to continue our Liberty; a peaceable Neighbour be<g ref="char:EOLhyphen"/>ing a good ſign of a peaceable Subject.</p>
+            <p>But behold, (O Friends!) contrary to my expectation, another <hi>Goliah</hi> ſtart<g ref="char:EOLhyphen"/>ing forth, and in <hi>Hebrew, Greek,</hi> and <hi>Latin</hi> bidding, in effect, Defiance to Peace, deriding and abuſing my mode<g ref="char:EOLhyphen"/>rate conſiderations, tendered only to in<g ref="char:EOLhyphen"/>cline the minds of both Parties to forbear farther Contentions about theſe Opini<g ref="char:EOLhyphen"/>nions.</p>
+            <p>And although he tells us in the firſt line of his Book, <hi>That he deſigns not to tra<g ref="char:EOLhyphen"/>duce the Perſon of any man, or wrong him in his Sentiments of Religion,</hi> yet he has
+<pb n="5" facs="tcp:33040:6"/>cloſed up with an Epiſtle which does both; and that in ſuch a Malicious and Contradictious manner, as in pro<g ref="char:EOLhyphen"/>bability may bring a blaſt upon his whole Deſign, as I ſhall ſhew in the Concluſion. It's true, I cannot lay the Epiſtle it ſelf at <hi>W. R.</hi> his door, but this is plain, that if he had no deſign nor de<g ref="char:EOLhyphen"/>ſire to traduce, he might have ſent me a Copy of that Letter before he pub<g ref="char:EOLhyphen"/>liſhed it, and if I could not have ſatisfied him, he had been blameleſs; but now I may ſay, <hi>qui non vetat peccare cum poſſit, jubet.</hi>
+            </p>
+            <p>But moreover, though he traduces not my Perſon; yet you may perceive a Spirit very unlike to a Lover of Chriſtia<g ref="char:EOLhyphen"/>nity, creeping along the Book, ſlight<g ref="char:EOLhyphen"/>ing, jeering, endeavouring to ſow Diſ<g ref="char:EOLhyphen"/>cord, and create Trouble<g ref="char:punc">▪</g> groundleſsly charging me with <hi>Shifts and Equivocati<g ref="char:EOLhyphen"/>ons;</hi> and what this may be called, I know not, nor do I much care, being confident that he who hath enabled me by his Grace, to paſs through good Report, will alſo aſſiſt me to bear the contrary; which (all things conſidered) is a bur<g ref="char:EOLhyphen"/>den more eaſie, and leſs dangerous.</p>
+            <pb n="6" facs="tcp:33040:7"/>
+            <p>As touching the Book it ſelf, I ſhall not meddle with thoſe matters in it which have already been ſufficiently con<g ref="char:EOLhyphen"/>troverted, but only ſuch of thoſe parti<g ref="char:EOLhyphen"/>culars which relate to my Conſtructions put upon thoſe Twelve Opinions, which were the occaſion of my firſt Writing.</p>
+            <p>
+               <hi>W. R.</hi> is much miſtaken if he think to draw me to dance after his Diſputing Pipe, eſpecially at ſuch a time, and in ſuch a Cauſe as this is, which one grain of Chriſtian Charity would eaſily Re<g ref="char:EOLhyphen"/>concile.</p>
+            <p>In a word, If the Controverſie had not been ſerued up ſo high, as to ex<g ref="char:EOLhyphen"/>clude the Quakers from the number of Chriſtians, and to render them as <hi>Hea<g ref="char:EOLhyphen"/>thens, Pagans,</hi> and <hi>Infidels</hi> to their Neighbours, Friends, and Relations, <hi>W. R.</hi> perhaps had never heard of ſuch a Title as Pagan Principles, but <hi>hinc illae Lachrimae!</hi>
+            </p>
+            <p>Having thus given you the true occa<g ref="char:EOLhyphen"/>ſion of that Book, and the Reaſons of its Title; I ſhall firſt take ſome notice of <hi>W. R.</hi> his Preface, and then to the par<g ref="char:EOLhyphen"/>ticular Charges as before mentioned.</p>
+            <p n="1">1. He begins with a Complemental
+<pb n="7" facs="tcp:33040:7"/>Perſwaſion to Mr. <hi>Penn</hi> to own the Man Chriſt Jeſus. This is very ſtrange, that when he and others, he eſpecially, hath ſo owned him in us plain words as can be deſired, to the ſatisfaction of ſo many, that <hi>W. R.</hi> ſhould ſay he ſeems yet to deny him. Could I perſwade him, he ſhould not write a Line more upon this Subject, for I know the Spirit of Curioſi<g ref="char:EOLhyphen"/>ty and Jelouſie will never be ſatisfied, but call whatever he ſays, <hi>Masks of eva<g ref="char:EOLhyphen"/>ſive Pretences, Clouds of Impertinences,</hi> &amp;c. Nay, in all probability, if he ſhould write much more about it, he would ſoon have others as loudly calling upon him to own the Divinity, as now <hi>W. R.</hi> and many more do to own the Humani<g ref="char:EOLhyphen"/>ty; for ſo it happened after his writing the <hi>Sandy Foundation,</hi> &amp;c.</p>
+            <p n="2">2. The next thing remarkable, are the Reaſons why he preſents his Book to Mr. <hi>Penn.</hi> In the firſt, he inſinuates ſuch an intimacy betwixt us, <hi>as if he had a hand in Compoſing the Pagan Principles,</hi> which in a word is falſe. In his Second and Third Reaſons, ſee how plainly he contradicts himſelf, in ſaying, <hi>I have eſpouſed</hi> W. P. <hi>his Quarrel, and yet have
+<pb n="8" facs="tcp:33040:8"/>layed nothing to Mr.</hi> Hicks <hi>his Charge;</hi> when as Mr. <hi>Penns</hi> Charge is the only Quarrel (as <hi>W. R.</hi> calls it) and I ne<g ref="char:EOLhyphen"/>ver heard of any other betwixt them. Neither have I eſpouſed this any farther, than in a moderating way betwixt them in Love to both, which I believe is a Duty more incumbent upon many others, for neglect whereof, I deſire they may not be accountable at the Great Day. <hi>W. R.</hi> might plainly perceive that my deſign was not to Charge, for in <hi>p.</hi> 4. I ſaid, <hi>My Intent is only to ſhew how ſmall a quan<g ref="char:EOLhyphen"/>tity of Chriſtian Charitable Conſtruction might make theſe Charges paſſable among us all</hi> Again, what a ſtrange Inference doth <hi>VV. R.</hi> draw from my calling <hi>T. H.</hi> my Friend, <hi>that therefore</hi> W. P. <hi>ought not to call him Forger.</hi> may not one of my Friends wrong another of them, and no neceſſity lie upon me to fall out with either, or to interpoſe, unleſs for the Reaſon aforenamed? <hi>T. Hicks</hi> his Con<g ref="char:EOLhyphen"/>verſation has been reputed honeſt for many years, and being willing to hope, that in general it is ſo ſtill, I call'd him <hi>Friend,</hi> and deſire not to carry it other<g ref="char:EOLhyphen"/>wiſe towards him, though I am <hi>no Friend
+<pb n="9" facs="tcp:33040:8"/>to his Dialogues.</hi> And if in them, he has wronged <hi>VV. P.</hi> or others, either by adding to, or ſubſtracting any thing from their writings, or by putting down any Anſwers for theirs, which are not theirs (which is to be feared) he would do very well to follow that Coun<g ref="char:EOLhyphen"/>ſel <hi>W. R.</hi> gives <hi>W. P. viz.</hi> retract, and count it no diſhonour to him.</p>
+            <p>It's a difficult thing to turn Religious Controverſies into a <hi>Dialogue,</hi> without conſent of both Parties; for if he change but a letter, he is liable to a laſh, unleſs he has been ſo careful to preſerve the ſence of his Antagoniſt, that he cannot object againſt it; and then no man can be angry. You nay ſee by what I have done, that the <hi>Quakers</hi> are not ſo curi<g ref="char:EOLhyphen"/>ous of their words, but that they will give us leave to put in ſuch as may help us to a right underſtanding of their Principles, when their own expreſſions ſeem dark unto us.</p>
+            <p>The remainder of what <hi>W. R.</hi> hath writ, worth noting, before he comes to the Charges, contains a bad Compari<g ref="char:EOLhyphen"/>ſon, and a far-fetcht Concluſion.</p>
+            <p>Firſt, He compares me <hi>to him that in<g ref="char:EOLhyphen"/>tending
+<pb n="10" facs="tcp:33040:9"/>to kill his Enemy with a ſtab, let out the Impoſthume.</hi> But let him remem<g ref="char:EOLhyphen"/>ber the Proverb, <hi>mala mens, malus ani<g ref="char:EOLhyphen"/>mus.</hi> The Impoſthume indeed is ſome<g ref="char:EOLhyphen"/>what <hi>(proh dolor)</hi> to the purpoſe: For it's greatly to be feared that there are too many inward Swellings of Pride, Covetouſneſs, Evil Surmizings, and Malice among many ſorts of Profeſſors this day; And O how happy would thoſe <hi>Pens</hi> be, that (by the bleſſing of the Almighty Phyſitian) ſhould be made Spiritual Love Lances to let them out. But as for the other Part of the Simili<g ref="char:EOLhyphen"/>tude which repreſents me as an Ene<g ref="char:EOLhyphen"/>my to the <hi>Baptiſts,</hi> he does thereby emi<g ref="char:EOLhyphen"/>nently ſignifie his Ignorance, and adds that, which his laſt ſeven years Certifi<g ref="char:EOLhyphen"/>cate will not countenance.</p>
+            <p>Secondly, <hi>W. R.</hi> draws ſuch a Con<g ref="char:EOLhyphen"/>cluſion from my Title Page, as I think <hi>Zoilus</hi> himſelf would not have done. Becauſe I ſay, <q>theſe are Twelve Opinions for which <hi>T. H.</hi> has publiſh<g ref="char:EOLhyphen"/>ed the Quakers to be no Chriſtians,</q> 
+               <hi>that therefore I confeſs they hold them.</hi> If this be not a Quibble, I never heard one. And the root of it is this Particle <hi>(for)</hi>
+               <pb n="11" facs="tcp:33040:9"/>But is it not a common and plain form of Speech among us to ſay, Such a man was poſted <hi>for</hi> a Coward, or accuſed <hi>for</hi> a Jeſuite, and does it follow then that he was ſo? I doubt <hi>W. R.</hi> minds the <hi>Idioms</hi> of <hi>Greek and Hebrew</hi> ſo much, that he forgets the Propriety of his Mo<g ref="char:EOLhyphen"/>ther Tongue. But what need all this, when in <hi>p.</hi> 4. I ſay, to prevent miſtakes, <q>Think not I plead for them, as if I my ſelf, or they owned them; for both in their Books, and Conferences, they deny at leaſt ten of them, as they are layed down and conſtrued by <hi>T. H.</hi>
+               </q> Alas, poor <hi>Quakers!</hi> Now I pity you more than ever; <hi>no marvel if you complain ſo ſadly of wrong Conſtructions, Forgeries, and Lyes, when ſuch plain words as theſe will not free me from a Confeſſion I never thought of. Poor Flock of Slaughter!</hi> Zac. 11.4. <hi>I ſee your own Country men muſt not ſpeak a word for you, unleſs they reſolve to be your Companions in Tribulati<g ref="char:EOLhyphen"/>on. All words that can be bended against you ſhall, and thoſe that cannot ſhall be re<g ref="char:EOLhyphen"/>jected as Whimſies and Impertinencies.</hi> However, I ſhall proceed to make ſome brief Reply: But here I am in a ſtreight,
+<pb n="12" facs="tcp:33040:10"/>for I ſee my brevity is liable to be fille<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap> up with Words to make it ſpeak Abſur<g ref="char:EOLhyphen"/>dities or contrary Sences: And if I uſ<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap> many words, then I ſhall be counted <gap reason="illegible" resp="#UOM" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> man of words, wanting Wiſdome o<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap> good Argument. Well, do as the Lord directs, O my Soul, and leave the iſſu<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap> to himſelf.</p>
+            <p n="1">1. The firſt Charge againſt the Qua<g ref="char:EOLhyphen"/>kers is, <hi>That the light in every Man is God</hi> Now becauſe this Charge as it lies, ſeem to fix many fooliſh and improbable Ab<g ref="char:EOLhyphen"/>ſurdities upon them, as that when they pray, <hi>they only pray to a God within them and that they make as many Gods as there are men in the world,</hi> therefore, ſaid I, to moderate the Charge, prevent miſtakes and render it more intelligable to every man, put in but (of) and all is well. And this <hi>W. P.</hi> himſelf do<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>s in p. 8 of <hi>R. againſt R.</hi> Where we have him thus anſwering <hi>T. H.</hi> about this very Charge, and ſaying <q>That the Light within preſent with us every where, is to us the great proof of Gods omnipreſence, and therefore of God.</q> And in page 7, he blames <hi>T. H.</hi> for inſinuating from <hi>G. W.</hi> his words that every Illumination is whole God<g ref="char:punc">▪</g>
+               <pb n="13" facs="tcp:33040:10"/>And as much he ſaid to <hi>John Faldo</hi> page 10th of <hi>Quakeriſm a new nick name.</hi> 
+               <q>Far be it from us to aſſert, every ſuch il<g ref="char:EOLhyphen"/>lumination to be the only Lord and Saviour and very God;</q> and more to the ſame purpoſe in that page. And indeed in theſe places <hi>W. R.</hi> ſhould have looked for <hi>W. P.</hi> his ſence and not have run 48 pages farther &amp; bring ſomething ſpoken of Chriſt as a contradiction to what he ſaid before, to which it had no rela<g ref="char:EOLhyphen"/>tion.</p>
+            <p>But farther methinks I ſee <hi>W. R.</hi> ſporting and triumphing over this Addi<g ref="char:EOLhyphen"/>tion of mine, by letting fly ſo many Scripture inſtances, to ſhew what ſtrange ſences the taking out or putting in of a word or letter will produce. He tells us of a Printer that left out, Not, in the 7th Commandment and then it was <hi>Thou ſhalt commit adultery.</hi> And another fancy (perhaps) of his own, which had been better concealed, for it looks too much like prophane Drollery, from 1 <hi>Cor,</hi> 15, 51, where ſaith he take away (c) from Changed, and then it is, <hi>We muſt all be hanged.</hi> But are theſe Inſtan<g ref="char:EOLhyphen"/>ces to our purpoſe? Is the Caſe all one
+<pb n="14" facs="tcp:33040:11"/>between the Scriptures and thoſe mens writings who are alive to approve or diſ<g ref="char:EOLhyphen"/>own what additions you make again: the words &amp; letters that <hi>W. R.</hi> ſubſtracts from Scripture are ſuch as make the Sence remaining, run directly contrary to all Scripture and Reaſon, whereas my Addition made the Charge agree with both. But,</p>
+            <p>Thirdly, Though I know we cannot add any word into the Scripture, yet conſider whether moſt Chriſtians do not either in their Doctrinal or Practical Comments upon it, make Additions. When any man Bap<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>izeth by vertue of the Commiſſion <hi>Mat.</hi> 28.19. doth he not add the word <hi>(water)</hi> to it? When we oppoſe the <hi>Roman Purgatory</hi> preſſed upon us from 1 <hi>Gor.</hi> 3.13. do not we add <hi>(before Death)</hi> or ſome words to that purpoſe? When one ſaith, Chriſt died for all men, and proves it from 1 <hi>Tim.</hi> 2.6. will not another of a contrary mind ſay the word <hi>(Elect)</hi> is to be under<g ref="char:EOLhyphen"/>ſtood or added to make it agree with o<g ref="char:EOLhyphen"/>ther Scriptures? Now this is my Caſe, &amp; they who make theſe Additions, juſtifie me: for as theſe words make theſe texts
+<pb n="15" facs="tcp:33040:11"/>in their underſtanding agree with others more plain and leſs liable to exception, ſo my Addition made this Charge more agreeable to other plainer Writings of the <hi>Quakers.</hi> Seeing then there are different ſenſes put upon theſe Texts and others I could name; <hi>W. R.</hi> did not conſiderate<g ref="char:EOLhyphen"/>ly compare the <hi>Quakers Writings</hi> to <hi>Heathen Oracles,</hi> becauſe in ſome places they may ſeem to admit of divers Con<g ref="char:EOLhyphen"/>ſtructions: for he cannot but ſee what will follow, if an Argument ſhould be drawn from the Premiſes upon him.</p>
+            <p>The Second Charge againſt the Qua<g ref="char:EOLhyphen"/>kers is, <hi>That the Soul is a part of God, and of Gods Being, without Beginning, and Infinite.</hi>
+            </p>
+            <p>Here faid I, what hurt is there in all this? that is, in this Notion about the Soul, or In twenty more of the like na<g ref="char:EOLhyphen"/>ture? But when I proceed to ſay I ne<g ref="char:EOLhyphen"/>ver heard the <hi>Heathen</hi> were of this Opi<g ref="char:EOLhyphen"/>nion, then <hi>W. R.</hi> makes advantage of my brevity, and preſently falls to proving that the <hi>Heathen</hi> had divine Apprehen<g ref="char:EOLhyphen"/>ſions of the Soul, which I deny not: but this is not our buſineſs; <hi>W. R.</hi> ſhould have kept his eye upon the main deſign
+<pb n="16" facs="tcp:33040:12"/>of this Charge, as I did, which <hi>T. H.</hi> tells us verbatim in <hi>p.</hi> 16. of the firſt <hi>Dial.</hi> is to bring an abſurdity upon the Qua<g ref="char:EOLhyphen"/>kers; for ſaith he, <hi>If this be ſo, then their Opinion muſt be thus underſtood, God ſets up a Light in himſelf, which He Himſelf is to obey, and in ſo doing he ſhall be ſaved:</hi> Now to this being the ſubſtance of the Charge (and without this there's no hurt in it) I ſaid the Heathen were not of this Opinion, or drew they a<g ref="char:EOLhyphen"/>ny Conſequences from their Appre<g ref="char:EOLhyphen"/>henſions of the Soul, leading them to any inward Idolatry: but rather on the contrary, as the changing the glory of God into Images of Men and Beaſts, <hi>Rom.</hi> 1. So that nothing is more oppo<g ref="char:EOLhyphen"/>ſite to <hi>Quakeriſm,</hi> than <hi>Heatheniſm,</hi> vul<g ref="char:EOLhyphen"/>garly underſtood, that being all for <hi>In<g ref="char:EOLhyphen"/>ward</hi> Spiritual Worſhip, and this for an <hi>Outward</hi> groſs Idolatry.</p>
+            <p>Moreover, under this Charge, <hi>W. R.</hi> makes a diſparity betwixt the Soul of Man, and Spirit of God, which I oppoſe not, becauſe it hurts not the Queſtion, <hi>viz. Why may we not as well ſay God hath given us a meaſure of Himſelf as a meaſure of his Spirit:</hi> No faith he, <hi>becauſe the Soul
+<pb n="17" facs="tcp:33040:12"/>is a Creature made by God immortal, and cannot die:</hi> But in ſo ſaying he oppoſeth <hi>Austin</hi> and <hi>Jerome,</hi> who ſay, <q>That if the Soul be ſeminated with the Fleſh, or come <hi>ex traduce,</hi> then it ſhall die with the fleſh.</q> If I ſhould tell him what the Lord ſaith, <hi>Ez.</hi> 18. <hi>The Soul that ſins ſhall die;</hi> I know he would anſwer, that Soul there ſignifies the Body; and why it may not ſo be taken in <hi>Iſa.</hi> 57. I leave to others to judge. For my own part, though I believe the Soul Immor<g ref="char:EOLhyphen"/>tal, yet I never ſaw any great cauſe to <hi>Anathema</hi> thoſe that held it ſlept with the body, ſo long as they firmly believed, it ſhould be raiſed again to partake of Im<g ref="char:EOLhyphen"/>mortality; for the Conteſt betwixt us is but about a little ſpace of time, which in the Grave ſignifies nothing: but indeed betwixt them and the <hi>Roman Catholicks</hi> this Conteſt is of great concernment, for it utterly overturns their profitable Doct<g ref="char:EOLhyphen"/>rine of Purgatory. Therefore they have no reaſon to ſuffer it. But why we may not bear with one another about that, and this Notion about the Soul in the Charge, ſo long as the Abſurdity afore<g ref="char:EOLhyphen"/>ſaid is deteſted, I know not. And for all
+<pb n="16" facs="tcp:33040:13"/>
+               <gap reason="duplicate" extent="1 page">
+                  <desc>〈1 page duplicate〉</desc>
+               </gap>
+               <pb n="17" facs="tcp:33040:13"/>
+               <gap reason="duplicate" extent="1 page">
+                  <desc>〈1 page duplicate〉</desc>
+               </gap>
+               <pb n="18" facs="tcp:33040:14"/>
+               <hi>W. R.</hi> huffs at my Confidence in ſaying, <q>It's ſtrange we ſhould differ about we know not what;</q> I ſee no reaſon he has given to leave off this Admiration: For if he ſhould devote himſelf to read all that ever has been written about the Soul, and all its Definitions, and all ſuch <hi>Quiddities</hi> about it as <hi>tota in toto,</hi> and <hi>tota in qualibet parte,</hi> I dare affirm he will not be more able to tell us what the Soul of Man is than he was before. There<g ref="char:EOLhyphen"/>fore let him not think that I write any thing about the Soul to make him much the wiſer, but only in this ſenſe, that we may all be ſo wiſe as to leave conten<g ref="char:EOLhyphen"/>ding about it. And for this cauſe I ſhall take no notice of more Queſtions of that Subject; for I think he puts them but to try whether I will be ſo fooliſh as to An<g ref="char:EOLhyphen"/>ſwer them.</p>
+            <p>I ſhall conclude this Charge with tel<g ref="char:EOLhyphen"/>ling <hi>W. R.</hi> that I writ not thoſe Verſes he jerks me for, to jeer my Friends, but that by telling them what others ſay, they may be weaned from theſe unprofitable and diſhonourable Diſputes, whom it chiefly concerns to think on it. But if I were minded to ſeek after a jeering Spi<g ref="char:EOLhyphen"/>rit
+<pb n="19" facs="tcp:33040:14"/>in his Writings, I doubt I ſhould find a downright one in that pertinent Queſti<g ref="char:EOLhyphen"/>on, he ſo often hath put to the <hi>Quakers,</hi> viz. <hi>What ſome of thoſe things were, that our Saviour did upon Earth that are not Written?</hi> Don't you think this a wiſe one, and a charitable one too?</p>
+            <p>Doubtleſs he might have poſed the Pro<g ref="char:EOLhyphen"/>phet <hi>David</hi> with an eaſier Queſtion than this; For he ſaith, <hi>Pſal.</hi> 35.15. <hi>That the Abjects gathered themſelves againſt him, and he knew it not,</hi> though 'tis like they were not very far from him. No<g ref="char:EOLhyphen"/>thing is more common now a days, than to jeer with a Queſtion. Our Saviour him<g ref="char:EOLhyphen"/>ſelf was ſo ſerved, <hi>Mat</hi> 26.68. <hi>Prophe<g ref="char:EOLhyphen"/>ſie unto us thou Chriſt, who is he that ſmote thee?</hi>
+            </p>
+            <p>The Third Charge, <hi>That Jeſus Christ is not a distinct Perſon without us.</hi>
+            </p>
+            <p>To this I ſaid, as a Motive to Modera<g ref="char:EOLhyphen"/>tion, <q>That becauſe this Definition of a Diſtinct Perſon <hi>without</hi> us, is not in Scripture, why ſhould we impoſe it on them? eſpecially conſidering what Reaſon they give for their tenderneſs in refuſing ſuch Expreſſions, becauſe they occaſion people to retain mean,
+<pb n="20" facs="tcp:33040:15"/>and dark Apprehenſions of God and Chriſt, and his place of Reſidence.</q> 
+               <hi>W. P. Count. Chriſt,</hi> p. 79. If <hi>W. R.</hi> fears no ſuch Conſequences, let him uſe them without Unchriſtning others that do not. And whereas he ſaith, <hi>It is ſhameful for a</hi> Quaker <hi>to refuſe thoſe Expreſſions becauſe not in Scripture, while he owns not the Scripture for a Rule;</hi> I ſay it's much more ſhameful for thoſe that own the Scripture for a Rule, to impoſe ſuch ex<g ref="char:EOLhyphen"/>preſſions upon others which are not in Scripture, they have reaſon to keep you to what you call the Rule.</p>
+            <p>But <hi>W. R. will prove the word Perſon, yea and a diſtinct Perſon too, from</hi> 2 Cor. 2.10. where the Apoſtle ſaith, <hi>for your ſakes forgave I it in the Perſon of Chriſt.</hi> Here a grain of his Greek might have been uſeful: For that which the Tranſla<g ref="char:EOLhyphen"/>tors according to their Judgment have rendered <hi>Perſon</hi> of Chriſt, whether it may not as well be read in the ſight of Chriſt, <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, <hi>in conſpectu Chri<g ref="char:EOLhyphen"/>ſti,</hi> or in Chriſts ſteed: I leave to more able men, than <hi>W. R.</hi> or I am to deter<g ref="char:EOLhyphen"/>mine.</p>
+            <p>There is ſixteen more pages ſpent in
+<pb n="21" facs="tcp:33040:15"/>this Charg, which I can account no other, than a vain floriſh, to let <hi>W. P.</hi> ſee what <hi>W. R.</hi> can do, if he be not conſtant to what he has ſpoken: For theſe pages are chiefly ſpent (laying aſide the <hi>quib<g ref="char:EOLhyphen"/>bles about the Aſs</hi>) in proving the Huma<g ref="char:EOLhyphen"/>nity of Chriſt, which I told him the Qua<g ref="char:EOLhyphen"/>kers did not deny, and brought <hi>W. P.</hi> his Confeſſion at the <hi>Barbican</hi> Meeting to prove it, <hi>viz.</hi> that we do faithfully be<g ref="char:EOLhyphen"/>lieve the holy <hi>Manhood</hi> to be a Member of the Chriſt of God: and a little after, <hi>We believe the Man Christ Jeſus to be glorified in Heaven.</hi> This, though <hi>VV. R.</hi> cannot diſlike, yet he will diſtruſt, and therefore ſays, <hi>that when</hi> W. P. <hi>has given us ſome</hi> infallible <hi>Demonſtration, that he did not ſpeak equivocally, then, and not till then do his words deſerve my Cognizance.</hi>
+            </p>
+            <p>What Unbelief is here! Nay, what a ſtrange Demand is this, for one that is an utter Enemy to Infalibili<g ref="char:EOLhyphen"/>ty in the Quakers, to demand an <hi>In<g ref="char:EOLhyphen"/>fallible</hi> Demonſtration from them? Now that muſt be viſible or elſe he cannot judg of it: And what viſible Demoſtration any Chriſtian can give, which may not be counterfeted by an Hypocrite, I ne<g ref="char:EOLhyphen"/>ver
+<pb n="22" facs="tcp:33040:16"/>yet knew. The truth is, <hi>W. R.</hi> doth ignobly to apply <hi>Aug.</hi> words to Mr. <hi>Penn,</hi> viz. <hi>They ſpeak it with their lips, they believe it not with their hearts.</hi> What is this in plain Engliſh, but to tell the world <hi>W. P.</hi> is a <hi>diſſembling Hypocrite,</hi> and his word, how ſincerely ſoever gi<g ref="char:EOLhyphen"/>ven, not to be taken; for truly I will not believe that mans word in Civil Af<g ref="char:EOLhyphen"/>fairs, whoſe ſolemn publick word I can<g ref="char:EOLhyphen"/>not believe in Spiritual. But that you may know this is not ſuch a new Article of their Faith as to hear date from that <hi>Barbican Meeting,</hi> hear what <hi>Edward Burrowes</hi> ſome years ago ſaid, in his 138, and 281. pages of his works, <hi>We prize the Lord Jeſus Chriſt as</hi> God Man, <hi>and own him</hi> alone <hi>to be the</hi> Foundation <hi>God hath laid.</hi> Now if this be not ground e<g ref="char:EOLhyphen"/>nough for <hi>Christian Charity</hi> towards them (the thing I aim at) God deliver me from ſuch Judges; for I know not what can be farther urged in this parti<g ref="char:EOLhyphen"/>ticular to induce them to it.</p>
+            <p>The Fourth Charge is, <hi>That Chriſt Redeemed himſelf.</hi>
+            </p>
+            <p>This I ſaid was but <hi>T. H.</hi> his Conſe<g ref="char:EOLhyphen"/>quence; and I believe he thinks it natu<g ref="char:EOLhyphen"/>ral
+<pb n="23" facs="tcp:33040:16"/>from ſome of the Quakers ſayings: But if they diſown it, as we ſee they do, and call it a groſs perverſion of their words, why muſt we not believe one as well as the other, and give them leave to take thoſe words of <hi>J. N.</hi> and <hi>G. F.</hi> in a Fi<g ref="char:EOLhyphen"/>gurative fence as well as <hi>W. R.</hi> takes li<g ref="char:EOLhyphen"/>berty to expound <hi>Iſa.</hi> 59.16. and 63.4. by a Figure? For ſo <hi>VV. P.</hi> ſaith, p. 63. of <hi>R. againſt R.</hi> they are to be taken; and there he treats at large of the Redempti<g ref="char:EOLhyphen"/>on of the Seed, and in what fence they hold it, wherein there is nothing ſounds like <hi>Heatheniſm,</hi> or unworthy of Tole<g ref="char:EOLhyphen"/>ration in my underſtanding; to be ſure it cannot be called their Principle, that is but his Inference. But I think we need ſay no more of their <hi>Conſequencing Charge;</hi> for it is ſo harſh and ſour, there's no fear that any ſober man will drink it.</p>
+            <p>The Fifth Charge againſt the Qua<g ref="char:EOLhyphen"/>kers, is, <hi>That they deny the Scriptures to be the Rule of Faith, and Practice unto Chriſtians.</hi>
+            </p>
+            <p>The firſt thing neceſſary in this Charge is to reſolve <hi>VV. R.</hi> what I mean by <hi>VVe, <g ref="char:V">Ʋ</g>s,</hi> and <hi>Our,</hi> in this Diſcourſe. I An<g ref="char:EOLhyphen"/>ſwer, that now we are Charging them
+<pb n="24" facs="tcp:33040:17"/>with denying the Scriptures, I under<g ref="char:EOLhyphen"/>ſtand all of us that do own the Scriptures for our Rule. And at other turns in my former book, I underſtand all ſuch ridg<g ref="char:EOLhyphen"/>ed Oppoſers of the <hi>Quakers</hi> as for theſe Twelve Opinions render them as <hi>Pagans</hi> and <hi>Heathens;</hi> and yet I would hope they do it from a zeal only to promote (as they think) the Glory of God, and the Authority of the Scriptures: And therefore my hearts deſire and pray<g ref="char:EOLhyphen"/>er for them is, that they may ſee that this Zeal of theirs, <hi>is not according to knowledge;</hi> for the Nature of it is ſuch as will directly lead them to joyn with thoſe, who when Opportunities are of<g ref="char:EOLhyphen"/>fered, <hi>will fall to killing Chriſtians upon a Principle of doing Chriſt good ſervice,</hi> Joh. 16.2. And I put my ſelf among them, (though thanks be to God not inclinable to that Zeal) becauſe the Purport of the Book repreſents me as ſtanding a<g ref="char:EOLhyphen"/>mong them, pleading as well as I could for a little Moderation towards the <hi>poor Quakers,</hi> and not the <hi>Quakers Cauſe,</hi> any farther than as it might admit of favourable Conſtructions for that End. Neither can you ſay I am any otherwiſe
+<pb n="25" facs="tcp:33040:17"/>guilty of Uncharitableneſs, when I ſay, <hi>let us be Charitable,</hi> than the Apoſtle was of Curſing, when he ſaid, <hi>therewith curſe we men, Jam.</hi> 3.9. But you'l ſay, <hi>the A<g ref="char:EOLhyphen"/>poſtle and they were Brethren, but I am not in fellowſhip with theſe that now oppoſe the Quakers.</hi> For your ſatisfaction in this Particular, I refer you to my Narrative in Anſwer to the <hi>Reading Letter</hi> in the concluſion hereof; and proceed to tell you that I perceive you cannot eſcape my <hi>Covering</hi> as you call it; as narrow as it is, I ſee it wraps you ſo faſt that it makes you angry, and call their book of the <hi>Barbican</hi> Meeting, <hi>Scurrilous,</hi> and the cloſe of the Title page, an <hi>Abomina<g ref="char:EOLhyphen"/>ble <g ref="char:V">Ʋ</g>ntruth,</hi> and that <hi>they ſeem to have no regard to Truth or Honeſty.</hi> If theſe be not angry words, I know none. But in all theſe five pages concerning this Charge, where is a particular of any one Scripture, not relating to ſome external part of Worſhip, which they deny. Why ſhould you ſay they deny the <hi>Bible</hi> which contains all the Books? This is but quibbling, by which you know I may eaſily prove that you deny it all by de<g ref="char:EOLhyphen"/>nying <hi>Circumciſion,</hi> a part therein con<g ref="char:EOLhyphen"/>tained.
+<pb n="26" facs="tcp:33040:18"/>But in ſhort, Sir, Be not angry, for I muſt tell you, that until all we, that own the Scriptures for our Rule, come to an Unity in Faith and Practice, according to it, and its well known we are now far from it, methinks it ſeems a pitiful contradiction for us to preſs it up<g ref="char:EOLhyphen"/>on others as an eaſie, plain, intelligible and unalterable general Rule.</p>
+            <p>Do you think our Diviſions, both in Doctrine and Diſcipline about it, do not wonderfully weaken our Commendati<g ref="char:EOLhyphen"/>ons of it, as the Evangelical appointed Rule? yea, in ſo much, that Church, Diſcipline, Doctrines will hardly keep people awake while they are Preaching up even from Scripture Authority.</p>
+            <p>They may well ſay unto us, <hi>Phyſitians heal your ſelves; agree among your ſelves, ye wiſe and Learned, what is the mind and meaning of the Scriptures, about which now ye diſpute, and then we will more willingly conform to what you call Scripture Ordinan<g ref="char:EOLhyphen"/>ces and Appointments.</hi>
+            </p>
+            <p>Laſtly, Sir, you conclude this Charge with a palpable abuſe of my words: <q>Seeing then (ſaid I) the great De<g ref="char:EOLhyphen"/>ſign of all the Scripture, is to bring us
+<pb n="27" facs="tcp:33040:18"/>to an holy life, let's bear with Opini<g ref="char:EOLhyphen"/>ons, which we plainly ſee do not ſub<g ref="char:EOLhyphen"/>vert it, eſpecially conſidering, that we read of no puniſhment denounced a<g ref="char:EOLhyphen"/>gainſt men for their Opinions.</q> Now can any fairly and honeſtly conclude from hence, <hi>that I allow of wicked, Athe<g ref="char:EOLhyphen"/>istical, and Antichriſtian Principles?</hi> But I ſee you are reſolved to bring me under ſome manner of Scandal if you can: therefore in your 42d page, you ſay I for<g ref="char:EOLhyphen"/>get, <hi>That Corrupt Principles lead to Cor<g ref="char:EOLhyphen"/>rupt Practices.</hi> No, I do not forget it; nor do I plead for, or go about to extenu<g ref="char:EOLhyphen"/>ate any ſinful or corrupt Principle, but to oppoſe that of Pride and Bitterneſs a<g ref="char:EOLhyphen"/>gainſt others; Demonſtration is the beſt proof in this Caſe. Survey the Quakers, and put their Lives and Converſations into one <hi>Balance</hi> of the <hi>Sanctuary,</hi> and the lives of any other ſort of Chriſtians into the other, and if they be found the lighter, I'le never ſpeak a word more for them as a People. How long muſt we wait to know a corrupt Principle? They have been among us about ſix or ſeven and twenty years, and yet we ſee no corrupt Practices growing from their
+<pb n="29" facs="tcp:33040:19"/>Principles. Certainly, were ſuch evil Fruit, as you imagine, natural to the Tree; we ſhould have ſeen it before now: for you ſay, <hi>when a mans Conſci<g ref="char:EOLhyphen"/>ence is debaucht, we ſhall quickly ſee him a man of a debaucht Converſation.</hi>
+            </p>
+            <p>The Sixth Charge is, <hi>That the ſpeak<g ref="char:EOLhyphen"/>ing of the Spirit in any, is of greater Au<g ref="char:EOLhyphen"/>thority than the Scriptures.</hi>
+            </p>
+            <p>To this I ſaid, (and I ſee no cauſe to alter my ſaying) <q>that there is no Reaſon for this Charge to be drawn from <hi>G. VVhiteheads</hi> words: For theſe words <hi>(and greater)</hi> being added to the clo<g ref="char:EOLhyphen"/>ſing of the Sentence doth plainly ſigni<g ref="char:EOLhyphen"/>fie to me that it muſt relate to the In<g ref="char:EOLhyphen"/>fluence:</q> For what doth Authority ſig<g ref="char:EOLhyphen"/>nifie without Influence? Of what worth is the Authority of a Magiſtrate, where his Commands are not regarded? Now it muſt be the Spirit opening of our hearts, as it did the heart of <hi>Lydia,</hi> to hearken to the Scriptures, and ſuffer them to have any impreſſion upon us, or Au<g ref="char:EOLhyphen"/>thority over us; wherefore <hi>VV. R.</hi> ſaith well, <hi>That whatever good effect the Preachers Doctrine hath upon the Soul, it is wrought by thoſe words, not as they are
+<pb n="28" facs="tcp:33040:19"/>the words of men, but as indeed the words of God, which effectually work in them that be<g ref="char:EOLhyphen"/>lieve.</hi> So that they muſt firſt believe them before there will be any effectual work wrought by them; and this they cannot do without the inward operation, and Conviction of the Holy Spirit; Therefore I ſee no evil in aſcribing the greater to the Spirit, ſo long as they give a great Authority to the Scriptures; both which, <hi>G. VV.</hi> doth in his Anſwer cited by <hi>T. H. viz.</hi>
+               <q>That which was ſpoken from the Spirit of Truth in any, is of as great Authority as the Scrip<g ref="char:EOLhyphen"/>tures and Chapters are, and greater.</q> I muſt put in Chapters now, for Civilities ſake, for <hi>VV. R.</hi> catches at my leaving them out before; but truly I know no difference or force depending on Chap<g ref="char:EOLhyphen"/>ters more than Scriptures; they were Scriptures before they were in Chapters. But the great Reaſon of this Charge is yet behind, and the Apeal directing me to <hi>Dial.</hi> 1. <hi>p.</hi> 28. there I find it, <hi>viz.</hi> 
+               <q>That becauſe the Script. if diligently conſulted with, would deter perſons from believing the Quakers feigned Revelations, therefore 'tis, they ſo
+<pb n="30" facs="tcp:33040:20"/>much endeavour to beget in the minds of men an ill Opinion of them.</q>
+            </p>
+            <p>This is a hard Cenſure, and how he will get off I know not, unleſs by way of ſuppoſed Conſequences, for I dare ſay they never told any man, <hi>that their endeavours were to beget in the minds of men all ill opinion of the Scriptures, or that they feared the Scriptures would deter perſons from believing them.</hi> But it being none of my Purpoſe to give a particular account of their Faith in this, or other Points, I refer thoſe that are minded to know their Judgment about the Script. to the 4th, 5th, 6th, 7th, 8th, &amp; 9th, Chapters of <hi>Quakeriſm a new nick name for old Chriſti<g ref="char:EOLhyphen"/>anity,</hi> and the Defenſe of it. And where<g ref="char:EOLhyphen"/>as he ſaith, <hi>a man may ſee how dark my <g ref="char:V">Ʋ</g>nderſtanding is, that I ſhould acknowledg</hi> G. W. '<hi>s words, and yet ſee no Reaſon for the Charge.</hi> Is not the Reaſon of the Charge what I laſt mentioned, as a hard Cenſure? And indeed he that ſees a Reaſon for that Conſequence in <hi>G. VV.</hi> his words, I confeſs ſees more than I do.</p>
+            <p>The Seventh Charge is, <hi>That is no Command from God to me, which God hath given by way of Command to another: nei<g ref="char:EOLhyphen"/>ther
+<pb n="31" facs="tcp:33040:20"/>did any of the Saints act by the Com<g ref="char:EOLhyphen"/>mand which was to another: Every one obeyed their own Command.</hi>
+            </p>
+            <p>This in Subſtance is but the two for<g ref="char:EOLhyphen"/>mer Charges dreſt up in other words: For by Commands, I ſuppoſe <hi>T. H.</hi> means Scripture Commands, and by Saints, ſuch as are recorded in Scripture: And then 'tis no more than what <hi>Ben. Furly</hi> ſaid before, that there is nothing in the Scripture which he is obliged to obey <hi>becauſe there Recorded.</hi> And ſo ſay I, not only becauſe Recorded in that Book, do I obey any Command, but becauſe the Spirit of God convinceth me that it is my Duty. For if its very being in that book be the ground of Obedience, what would become of him, who ſhould hap<g ref="char:EOLhyphen"/>pen to have one of that falſe Impreſſion, whoſe Compoſitor <hi>W. R.</hi> ſaith was a <hi>Papiſt,</hi> and left out NOT in the 7th Com<g ref="char:EOLhyphen"/>mandment? How ſhould he know it was falſe Printed, ſuppoſing he could have no other to correct it by? Muſt not the <hi>Spirit,</hi> or <hi>Light</hi> within be minded in ſuch Caſes? <hi>Yea,</hi> or the Man's undone. But a little more to this Charge, where<g ref="char:EOLhyphen"/>in I ſaid there is no great danger becauſe it's ſtated ſo in general that it may ad<g ref="char:EOLhyphen"/>mit
+<pb n="32" facs="tcp:33040:21"/>of good or bad particular Applica<g ref="char:EOLhyphen"/>tions: And for proof I ſhewed ſeveral particular Commands from God to o<g ref="char:EOLhyphen"/>thers, which did not concern any man now. And ſeveral which concerned eve<g ref="char:EOLhyphen"/>ry man. Neither did I ever hear a <hi>Qua<g ref="char:EOLhyphen"/>ker</hi> ſay, That not any one of the Com<g ref="char:EOLhyphen"/>mands in Scripture, concern them, though <hi>W. R.</hi> ſaith <hi>it's manifeſt they ſay ſo,</hi> p. 47. If <hi>T. H.</hi> had told us what particular Commands they deny'd, the work had been more eaſie and plain to reconcile. But I obſerve all the Char<g ref="char:EOLhyphen"/>ges againſt the Quakers concerning the Scriptures run in a general way. I wiſh it be not, to ſtop the mouths of all others from ſpeaking a word in their behalf, I am ſure it is not fair. Had they been charged with owning <hi>Childrens Baptiſm,</hi> perhaps ſome <hi>Presbyterian</hi> might have put in a word for them. Had they been charged with denying <hi>Tithes,</hi> ſome <hi>Bap<g ref="char:EOLhyphen"/>tist</hi> might have helped them, before now. If for denying <hi>Laying Hands</hi> upon all, to be fundamentally neceſſary to Church Fellowſhip, it's probable <hi>J. I.</hi> himſelf might have aſſiſted them in this, or in oppoſing the <hi>Saterday Sabbath,</hi> or in maintaining their Doctrine of <hi>General
+<pb n="33" facs="tcp:33040:21"/>Redemption.</hi> But now they being accu<g ref="char:EOLhyphen"/>ſed for denying Scripture for their Rule, all we which profeſs the Scripture to be our Rule, though we are divided into <hi>SIX</hi> ſeveral Churches, and all <hi>differing</hi> ſo much in Doctrine and Diſcipline, <hi>that we do not own one another as true conſtituted Churches,</hi> yet we are all ſtirr'd up by this general Charge of denying Scrip<g ref="char:EOLhyphen"/>ture, and Gods Commands, to fall up<g ref="char:EOLhyphen"/>on them. And if the <hi>Quakers</hi> were all ſuppreſt or baniſht, whoſe turn of all the Six would be next I know not; but of this I am confident, <hi>That the ſame Spi<g ref="char:EOLhyphen"/>rit which thus perſues them, will not let o<g ref="char:EOLhyphen"/>thers be quiet when they are gone.</hi> Strange that we cannot make better uſe of our time!</p>
+            <p>But <hi>W. R.</hi> puts ſome more Queries to me alſo, under this Charge, about the Scriptures, <hi>How they can know ſwearing to be a ſin, or how they can try Spirits with<g ref="char:EOLhyphen"/>out them.</hi> To both which, there hath been enough ſaid, at leaſt to beget Mo<g ref="char:EOLhyphen"/>deration, if not Satisfaction, by <hi>VV. P.</hi> in <hi>page</hi> 96. of <hi>Wiſdome Juſtified,</hi> &amp;c. And in his <hi>Rejoynder</hi> in defence of <hi>Quakeriſm a new nick Name,</hi> &amp;c. the firſt part of it being almoſt all about the Scriptures.</p>
+            <pb n="34" facs="tcp:33040:22"/>
+            <p>The Eighth Charge, <hi>That Juſtification by that Righteouſneſs which Christ fulfilled for us,</hi> wholly without <hi>us, is it Doctrine of Devils.</hi>
+            </p>
+            <p>To moderate this Charge, I offered two things to be conſidered: 1. The <hi>Greek</hi> word which generally in the New Teſtam. ſerves for Juſtification and Righ<g ref="char:EOLhyphen"/>teouſneſs, which are both <hi>Latin</hi> words themſelves in <hi>Engliſh</hi> habit, and <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> ſerving for both, I ſaid, that to be juſtified was all one in my underſtanding as to be made Juſt or Righteous: And this <hi>W.</hi> R. himſelf confirms out of Mr. <hi>Leighs Criti<g ref="char:EOLhyphen"/>ca Sacra,</hi> for he ſaith, <hi>The word muſt be underſtood, to reſpect that Integrity, Holy<g ref="char:EOLhyphen"/>neſs and Innocency of the Souls of Good men, by which they live a holy Life and pleaſe God;</hi> which in ſubſtance is what I ſaid be<g ref="char:EOLhyphen"/>fore, and <hi>W. P.</hi> before both of us; <hi>viz. to be made Juſt or Righteous.</hi> But ſaith <hi>W.</hi> R. this cannot be done without their perſons be firſt acquitted of their former Sins by the Juſtification they receive from Chriſt through believing; which in plainer <hi>Engliſh,</hi> is all one as to ſay, <hi>This cannot be done before it be done.</hi>
+            </p>
+            <p>In the next place, <hi>W.</hi> R. falls to diſtin<g ref="char:EOLhyphen"/>guiſhing between a <hi>Legal Righteouſneſs,</hi>
+               <pb n="35" facs="tcp:33040:22"/>an <hi>Evangelical Righteouſneſs,</hi> and thirdly a <hi>Righteouſneſs which Chriſt fulfilled for us in his own Perſon,</hi> wholly <hi>without us.</hi>
+            </p>
+            <p>The firſt he ſaith, <hi>is a perfect Obedience to all God requires at all times, both in thought word and deed.</hi> But where this is called a Legal Righteouſneſs, I know not. I think the Goſpel requires as per<g ref="char:EOLhyphen"/>fect obedience as the Law, and more ſtrict, as in <hi>Mat.</hi> 5.</p>
+            <p>But Secondly, <hi>W. R.</hi> 's Evangelical Righteouſneſs <hi>is</hi> (only) <hi>a ſincere endea<g ref="char:EOLhyphen"/>vour of the Soul to do all that God requires, although by reaſon of the pravity of his Na<g ref="char:EOLhyphen"/>ture, he cannot uttain it.</hi> Is not this plain<g ref="char:EOLhyphen"/>ly to ſay, that God requires us now un<g ref="char:EOLhyphen"/>der the Goſpel, to do that which he knows we cannot do? This made the Slothful Servant ſay, <hi>Mat.</hi> 25. <hi>that he was an hard Maſter.</hi>
+            </p>
+            <p>But Thirdly, he has diſtinguiſhed out another Righteouſneſs, which Chriſt fulfilled for us, which it ſeems cannot properly be called <hi>Legal,</hi> or <hi>Evangelical:</hi> But what he means by all this, I know not, unleſs he would bring us to expect to be juſtified by ſuch a Faith as is with<g ref="char:EOLhyphen"/>out works, and that I hope he will diſ<g ref="char:EOLhyphen"/>own,
+<pb n="36" facs="tcp:33040:23"/>and if ſo, all theſe Diſtinctions will vaniſh of themſelves, and that I believe they do as faſt as they are Preached, be<g ref="char:EOLhyphen"/>ing ſo intricate and hard to be under<g ref="char:EOLhyphen"/>ſtood, that I know not how any man can tell how to regulate his Faith or Life according to them.</p>
+            <p>The Second thing I propounded to moderate this Charge, was theſe words (wholly <hi>without us</hi>) which I ſaid <q>might very well ſatisfie us, that the <hi>Quakers</hi> levelled not at <hi>Scripture Juſtification,</hi> but at our conceits of it;</q> of which I ſee <hi>W. R.</hi> takes no notice. And no doubt he ſaw cauſe for it. For <hi>wholly without us,</hi> muſt either (in this point of Juſtification) ſignifie <hi>wholly</hi> without our Faith, or <hi>wholly</hi> without our <hi>works,</hi> or <hi>wholly</hi> without both: And where the Scriptures account any one a juſtified Perſon <hi>wholly</hi> without both or either of theſe, I know not.</p>
+            <p>But for as much as <hi>W. P.</hi> hath al<g ref="char:EOLhyphen"/>ready treated ſo largely upon the Do<g ref="char:EOLhyphen"/>ctrine of <hi>Juſtification</hi> in his 8th Chapter of the ſaid Rejoynder. I do hereby deſire <hi>William Ruſſel</hi> to go thither to ſatifie himſelf about their Faith in that
+<pb n="37" facs="tcp:33040:23"/>matter. As I told him at firſt, I intend not a Diſpute, much leſs a Quarrel about words; if any thing I have ſaid will but put the leaſt ſtop to <hi>Carears</hi> of that Nature, I have all the Reward I look for.</p>
+            <p>The Ninth Charge is, <hi>That Juſtifica<g ref="char:EOLhyphen"/>tion is by Works.</hi>
+            </p>
+            <p>This I ſaid is almoſt, yea I might have ſaid altogether of the ſame nature as the former; And it's a great deal of pity to <hi>Heathenize</hi> men for Preaching up good works, eſpecially in an Age when they are ſo ſcarce. To which <hi>W. R.</hi>  
+               <gap reason="blank" extent="1 word">
+                  <desc> _____ </desc>
+               </gap>  replies, <hi>Rarely well gueſt, Is</hi> T. H. <hi>finding fault for Preaching up good works?</hi> But <hi>W. R.</hi> might not I have ſaid the ſame, to <hi>T. H.</hi> his 4th Charge, <hi>That Chriſt Redeem<g ref="char:EOLhyphen"/>ed himſelf.</hi> Rarely well gueſt, was that ever the Queſtion? did the Quakers ever ſay ſo in <hi>terminis,</hi> much leſs in <hi>T. H.</hi> his ſence? but I like none of this <hi>up<g ref="char:EOLhyphen"/>braiding, braving Language.</hi> Certain it is that <hi>T. H.</hi> rates the Quakers for ma<g ref="char:EOLhyphen"/>king <hi>them</hi> neceſſary to Juſtification, and that I think is as far from <hi>Chriſtianity,</hi> as the contrary is from <hi>Heatheniſm.</hi>
+            </p>
+            <p>The Tenth Charge againſt the Qua<g ref="char:EOLhyphen"/>kers
+<pb n="38" facs="tcp:33040:24"/>is, <hi>That Chriſt fulfilled the Law only as our Pattern.</hi>
+            </p>
+            <p>This word <hi>only</hi> being the occaſion of this Charge, I did endeavour to mode<g ref="char:EOLhyphen"/>rate, and ſaid, <q>That to an innocent underſtanding, it ſignifies no more than <hi>chiefly</hi> as our Pattern, which is far from ſignifying, that there is no other end of Chriſts fulfilling the Law.</q> And <hi>W. P.</hi> himſelf mentions other ends in <hi>p.</hi> 79. of <hi>R. againſt R.</hi> But ſaith <hi>W. R.</hi> How can I count this an honeſt Sentence, and yet will not juſtifie it. And here he leaves out one half of my Sentence, and then cries out, <hi>I am very Inconſiſtent.</hi> And well may I, or any man elſe at this Rate. But take all together, and it's thus: <hi>This is an honeſt Sentence, though I will not juſtifie it ſo worded and underſtood as</hi> T. H. <hi>doth: For</hi> T. H. <hi>Prints this word</hi> only <hi>in a diffe<g ref="char:EOLhyphen"/>rent Caracter, that it might have ſuch an</hi> Emphaſis <hi>put upon it, as was never intend<g ref="char:EOLhyphen"/>ed for it.</hi> And again, <hi>T. H.</hi> underſtands (or elſe would have others to under<g ref="char:EOLhyphen"/>ſtand) by this word only, <hi>That Christ fulfilled the Law</hi> (yea <hi>and</hi> died <hi>too</hi>) <hi>for no other end but as our</hi> Pattern <hi>of Obedi<g ref="char:EOLhyphen"/>ence and Sufferings.</hi> And if this be not
+<pb n="39" facs="tcp:33040:24"/>his underſtanding of <hi>W. Penns</hi> Sentence, this Charge is frivolous and of no uſe or advantage at all againſt the Quakers. And this ſence of it I will not juſtifie: and I am ſure <hi>W. P.</hi> denys it, and oppugnes it. Again, <hi>W. R.</hi> queries, <hi>why I call this Hea<g ref="char:EOLhyphen"/>then Doctrine, ſeeing the word Heathen is not ſo much as mentioned by</hi> T. H. I an<g ref="char:EOLhyphen"/>ſwer, every Plough-man teaches it me, from the Title page of his <hi>Dialogue,</hi> by a better ſort of Inferencing, than helped him to the 4th Charg, <hi>That Chriſt Redeem<g ref="char:EOLhyphen"/>ed himſelf,</hi> &amp; far more plain and paſſable among the people. And whereas <hi>W. R.</hi> ſaith, <hi>the honour of that name belongs to me;</hi> I muſt tell him, that upon a ſecond view, I find he do's Mr. <hi>Faldo</hi> wrong; For al<g ref="char:EOLhyphen"/>though the <hi>Dialogues</hi> made the firſt noiſe of <hi>Heatheniſm</hi> in theſe parts, yet it ſeems Mr. <hi>Faldo</hi> put out a Book to degrade the <hi>Quakers</hi> from the Title of <hi>Chriſtians</hi> a little before.</p>
+            <p>The Eleventh Charge is, <hi>That the Doctrine of Chriſts Satisfaction is Irreligi<g ref="char:EOLhyphen"/>ous, and Irrational.</hi>
+            </p>
+            <p>As he who is truly deſirous to quench a fire, will be moſt active in pulling away thoſe Brands that increaſe the
+<pb n="40" facs="tcp:33040:25"/>Flame. So he that heartily mediates for Peace, labours more to remove thoſe words that ſtir up wrath, than to make Arguments to ſtrengthen either ſide. Up<g ref="char:EOLhyphen"/>on this very Account I ſaid, ſubſtract the word <hi>Irreligious:</hi> In hopes, that rhen the greateſt offence taken at this Doct<g ref="char:EOLhyphen"/>rine might ceaſe. For I know many, and hope there are thouſands more, un<g ref="char:EOLhyphen"/>known to me, that live religiouſly, though they believe this Doctrine even in <hi>T. H.</hi> his ſence; yea and the Doct<g ref="char:EOLhyphen"/>rine of <hi>Predeſtination</hi> too: And am veri<g ref="char:EOLhyphen"/>ly perſwaded I ſhall meet them there where all Controverſies ſhall fly away; But for all I have adventured to do this, yet I ſee <hi>W. R.</hi> will not be ſatisfied; he muſt have the whole Charge ſubſtracted before the Diſpute ſhall be ended. How true a Repreſentative is this man of the generality of the Contenders, and Diſ<g ref="char:EOLhyphen"/>puters of this Day! but oh how lamen<g ref="char:EOLhyphen"/>table is it! For go into any of their Con<g ref="char:EOLhyphen"/>gregations, and you ſhall hear them Commending, Preaching up, and Praying for Peace, Moderation, and Chriſtian Charity: But when you come to put them to the teſt, and know what
+<pb n="41" facs="tcp:33040:25"/>they will do, or what they will abate to<g ref="char:EOLhyphen"/>wards ſuch an Accommodation? you'l <gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ind not a word, not a letter, not a hair of their head, or a <hi>Notion</hi> that ſignifies <gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>s little, to be parted with for it. So that <gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ndeed when any of them pray for Unity or Charity, it is in Subſtance no more but that all may be turned to their Opi<g ref="char:EOLhyphen"/>nions, or elſe Anathama, Maranatha, God convert them. But here I cannot but take notice of the Quakers peaceable deſires in not contending with me about <gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>eaving out this word; though <hi>W. R.</hi> 
+               <gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ells me in a jeering way, <hi>it's not to be left <gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ut, for</hi> W. P. <hi>ſpake it by immediate Inſpi<g ref="char:EOLhyphen"/>ration.</hi> Well then, I perceive men ſpeak<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ng by Inſpiration are more eaſily made <gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>olyable to ceaſe from Controverſie, than <gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>hey that ſpeak without it. But let <hi>VV. R.</hi> his pretences for Truth be never ſo great, I'le not regard them, while he can both ſcoff at one of the greateſt Evangeli<g ref="char:EOLhyphen"/>cal Doctrines, abuſe them that confeſs it, <gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>nd by ſuch Fire-kindling Books as this he hath now publiſhed, not endeavour <gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>o accommodate but extend the diffe<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ence to the hinderance of Peace. So much concerning <hi>Irreligious.</hi>
+            </p>
+            <pb n="42" facs="tcp:33040:26"/>
+            <p>Now as to the <hi>Irrationality</hi> of th<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Doctrine, I find <hi>VV. R.</hi> himſelf makin<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap> it no Attempt to vindicate it from ſuch <gap reason="illegible" resp="#UOM" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> Charge, only ſporting himſelf with <gap reason="illegible" resp="#UOM" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> idle quibble or two about it, lets it paſ<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap> but not without an Untruth to bring u<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap> the Rear: For the Searcher of all hear<gap reason="illegible" resp="#UOM" extent="2 letters">
+                  <desc>••</desc>
+               </gap> knows, I ſpake nothing to this or an<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap> other point to gratifie <hi>W P.</hi> or any m<gap reason="illegible" resp="#UOM" extent="2 letters">
+                  <desc>••</desc>
+               </gap> elſe, which this Enemy to Paganiſm ha<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap> ſo little Chriſtianity as to ſuggeſt.</p>
+            <p>The Twelfth Principle Charged <gap reason="illegible" resp="#UOM" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> the <hi>Quakers</hi> is, <hi>That this Body which di<gap reason="illegible" resp="#UOM" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> ſhall not riſe again.</hi>
+            </p>
+            <p>Now we are come to the main <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> the grand Charge. Now ſays <hi>W. R.</hi> 
+               <gap reason="illegible" resp="#UOM" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> 61. <hi>Speak out, and be not afraid, now comes to the Point.</hi> I though I had ſpoke plain enough before, or elſe he doth <gap reason="illegible" resp="#UOM" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> if he doth not underſtand me, to ſa<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap> 
+               <hi>There is no more difference betwixt me a<gap reason="illegible" resp="#UOM" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> a Quaker in this Article, than betwi<gap reason="illegible" resp="#UOM" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> four pence and a groat.</hi> But if I can y<gap reason="illegible" resp="#UOM" extent="2 letters">
+                  <desc>••</desc>
+               </gap> ſpeak lowder I ſhall. Know therefor<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap> 
+               <hi>W. R.</hi> that I believe from the bottom of my heart, <hi>That the Quakers are m<gap reason="illegible" resp="#UOM" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap> baſely abuſed in this matter, by the craſ<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> Inſinuations of many malicious men.</hi> Fo<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <pb n="43" facs="tcp:33040:26"/>though the <hi>Citizens</hi> generally have ſuch <hi>
+                  <gap reason="illegible" resp="#UOM" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>arp Needle Heads,</hi> that there's very <gap reason="illegible" resp="#UOM" extent="2 letters">
+                  <desc>••</desc>
+               </gap>w of them that mind things of this na<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ure, but ſee, or are eaſily brought to ſee <gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>here the fallacy of a Propoſition lies; <gap reason="illegible" resp="#UOM" extent="2 letters">
+                  <desc>••</desc>
+               </gap>t ſcarce one Country man of an hun<g ref="char:EOLhyphen"/>dred can diſcern it. Tell not me what's <gap reason="illegible" resp="#UOM" extent="2 letters">
+                  <desc>••</desc>
+               </gap>e Queſtion, but what is the fruits and <gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ffects of it; I ſtrike at that. And if you <gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>re not willing ſuch abſurd Conſquences <gap reason="illegible" resp="#UOM" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>ould be ſuckt out of your Queſtions, <gap reason="illegible" resp="#UOM" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ate them ſo plain as to prevent it. If <gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ou would not have the Quakers called <hi>Heathens,</hi> do not ſay they are no <hi>Chri<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#UOM" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>ians.</hi> Let <hi>T. H.</hi> come into a Country <gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>uditory and Preach that the Quakers <gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>eny the Reſurrection of this Body, and <gap reason="illegible" resp="#UOM" extent="2 letters">
+                  <desc>••</desc>
+               </gap>t me afterwards examine them, and if <gap reason="illegible" resp="#UOM" extent="2 letters">
+                  <desc>••</desc>
+               </gap>e generality do not go away with this <gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>elief (if they give any credit to him) <gap reason="illegible" resp="#UOM" extent="2 letters">
+                  <desc>••</desc>
+               </gap>at the Quakers deny the Reſurrection, <gap reason="illegible" resp="#UOM" extent="2 letters">
+                  <desc>••</desc>
+               </gap>e burn my Books. How often have I <gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>eard them in Sermons compared to <hi>Hy<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>eneus</hi> and <hi>Philetus,</hi> who concerning the truth, have err'd <hi>Saying that the Reſur<g ref="char:EOLhyphen"/>rection is paſt already?</hi> And what think <gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ou can be the Deſign of this Compari<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#UOM" extent="2 letters">
+                  <desc>••</desc>
+               </gap>n, but to poſſeſs peoples minds, that
+<pb n="44" facs="tcp:33040:27"/>they deny any Reſurrection at all<g ref="char:punc">▪</g> Whereas you cannot but know, that the Difference betwixt them and us, is onl<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap> about the manner of the Reſurrection<g ref="char:punc">▪</g> a needleſs, nay, a forbidden Controver<g ref="char:EOLhyphen"/>ſie, even by him that you think ſays mo<gap reason="illegible" resp="#UOM" extent="2 letters">
+                  <desc>••</desc>
+               </gap> for your Notion. And let any imparti<gap reason="illegible" resp="#UOM" extent="2 letters">
+                  <desc>••</desc>
+               </gap> man but read the very Quotations yo<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap> have brought out of their Books, an<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap> all that ever <hi>W. P.</hi> has writ about it, an<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap> they will ſay the ſame. And I ſhall plain tell you more, That if I did underſtan<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap> the Quakers as well in all other poin<gap reason="illegible" resp="#UOM" extent="2 letters">
+                  <desc>••</desc>
+               </gap> as in this, I ſhould not have refrain<gap reason="illegible" resp="#UOM" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> their Meetings as I have done and d<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap> (not that I think it unlawful to go) b<gap reason="illegible" resp="#UOM" extent="2 letters">
+                  <desc>••</desc>
+               </gap> I will not ſay, <hi>I would be a Quaker;</hi> th<gap reason="illegible" resp="#UOM" extent="2 letters">
+                  <desc>••</desc>
+               </gap> is one of the weakeſt paſſages in all yo<gap reason="illegible" resp="#UOM" extent="2 letters">
+                  <desc>••</desc>
+               </gap> book! As if a man could be a <hi>Qu<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+                  <g ref="char:EOLhyphen"/>ker</hi> or any other Profeſſion, when <gap reason="illegible" resp="#UOM" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> pleaſed.</p>
+            <p>Its true indeed he may perha<gap reason="illegible" resp="#UOM" extent="2 letters">
+                  <desc>••</desc>
+               </gap> when he will, take up the formal of any thing: But to get into <gap reason="illegible" resp="#UOM" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> Life, Spirit, and Power of Reli<gap reason="illegible" resp="#UOM" extent="2 letters">
+                  <desc>••</desc>
+               </gap>
+               <g ref="char:EOLhyphen"/>on, is not a work ſo eaſie as you ſu<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <g ref="char:EOLhyphen"/>geſt. Next I ſhall ſpeak to that whi<gap reason="illegible" resp="#UOM" extent="2 letters">
+                  <desc>••</desc>
+               </gap> hath ſomething of Argument in it, and
+<pb n="45" facs="tcp:33040:27"/>conclude. I brought a Demonſtration ſufficient to convince any rational man, that the <hi>Quakers</hi> did own a Reſurrection, and a better Being after Death, or elſe they would never be ſo mad as to expoſe themſelves to all ſorrows and miſeries in this life, when they may avoid it. The Apoſtle himſelf confirms this Conſe<g ref="char:EOLhyphen"/>quence, ſaying, Let us eat and drink, if to morrow we ſhall die, and be no more. But <hi>W. R.</hi> rejects this, and brings two Witneſſes to be of his ſide. The firſt of the <hi>Saduces, which,</hi> ſaith he, <hi>were men that profeſt Religion, in oppoſition to the common Opinion of the Jews, and ſo conſequently were expoſed to ſufferings.</hi> Mark it, he ſays they were but <hi>Conſe<g ref="char:EOLhyphen"/>quently</hi> expoſed to Sufferings, he tells us of none: Nor do I remember any they ſuffered for their Religion; as tide a Conſequence as <hi>T. H.</hi>'s uſed to be. It's true, they ſhared in the unavoidable Calamities of War; but, that is not to our Buſineſs. Other ſtories mention a Tolleration among them, and that they liv'd peaceably in their ſeveral ways. A<g ref="char:EOLhyphen"/>gain, if I may draw Conſequences alſo, it's as probable they were wicked men as
+<pb n="46" facs="tcp:33040:28"/>good, notwithſtanding their Profeſſion, and their fine name: For nothing is more common, than for the worſt men to get the beſt names. The <hi>Phariſees</hi> name was as full of Holyneſs, as the <hi>Sadduces</hi> of Ju<g ref="char:EOLhyphen"/>ſtice: and yet were the vileſt men in thoſe times. But ſuppoſe ſome particu<g ref="char:EOLhyphen"/>lar <hi>Sadduces</hi> ſhould rather ſuffer death than deny their <hi>Notions;</hi> this would be no better proof, than if you had brought ſome high Spirited Gallant, who will out brave death for a point of Honour. Beſides, there is no Confeſſion of theirs now extant, and we know what it is to take one at anothers hand, nor doth <hi>Jo<g ref="char:EOLhyphen"/>ſephus</hi> make all of them ſo to hold. Your other Teſtimony is of the <hi>Eſseans.</hi> And you bring ſome of <hi>Joſephus</hi> his words, ſaying, <q>That notwithſtanding they denyed the Reſurrection of the Body, yet they could not be forced to revile their Law Maker, but ſcofft at their Tormentors and joyfully yielded up their Souls, as though they hoped to receive them a<g ref="char:EOLhyphen"/>gain.</q> And ſo indeed they did hope, for in the ſame page, ſaith <hi>Joſephus,</hi> 
+               <q>It was <hi>an Opinion among them, that the Body is corruptible, but yet the Souls re<g ref="char:EOLhyphen"/>main
+<pb n="47" facs="tcp:33040:28"/>for ever immortal. And that when they are delivered out of theſe carnal bonds, then preſently as freed from a long bondage, they joyfully mount aloft, the good to felicity, the bad to miſery.</hi>
+               </q> Now why would you conceal this? did you think I would truſt you? No, you knew this confirmed what I had ſaid, That the <hi>Quakers</hi> expoſing themſelves to this lifes miſeries, was a plain Demonſtration they owned a better being hereafter. But you ſerve <hi>Joſephus</hi> as you ſerve me, either take no more than ſerves your turn, or ſtop where it makes an ill ſound to the Reader. Mind your dealing in <hi>pag.</hi> 63. where you bring in my Anſwer thus, <q>But ſuppoſe they ſhould tell us this ve<g ref="char:EOLhyphen"/>ry Body ſhall not riſe, what care I —</q> Is this a handſome place to ſtop at, or juſt, to do ſo? What will a haſty man be ready to ſay when he reads this? ſurely this is a careleſs man indeed, he cares not whether his Body riſe or not: And ſo may take pett &amp; read no farther; and then what reports muſt I expect? Sir, this is not Chriſtianity, nor Paganiſm in the beſt ſence. Such deviſes as theſe will do you no ſervice in the end, tho for a time they may bring Scandals upon <hi>Quakers,</hi>
+               <pb n="48" facs="tcp:33040:29"/>and all that deſire their Toleration. You know the whole Sentence is this; <q>But ſuppoſe they ſhould tell us this very Body ſhould not riſe, what care I, ſo long as they tell me <hi>I ſhall have a better.</hi>
+               </q> And, Sir, when you hear of any Beggar that rails upon another for taking away his <hi>earthen Pitcher,</hi> after he has given it him again turn'd into Gold, then will I repent of this careleſsneſs. Your laſt and <hi>greateſt</hi> Argument to prove your Notion about the manner of the <hi>Reſurrection</hi> you would have grounded upon Reaſon. A thing I confeſs I love ſo deerly, that I dayly pray to be delivered from Unrea<g ref="char:EOLhyphen"/>ſonable men, <hi>for all men have not Faith.</hi> 2 Theſ. 3.2. whence I conclude, that an unreaſonable Faith commonly produces the worſt ſort of unreaſonable works; that is, <hi>Conſcience Perſecution.</hi> But to your Argument which you ſay is highly rational; the ſubſtance whereof is, <hi>That if the Body be a partaker of the Sin, it ſhould alſo partake of the Puniſhment. But the Bo<g ref="char:EOLhyphen"/>dy is a partaker of the Sin, therefore</hi> — This I think is your ſence, for theſe are your words. Its abſurd to imagine, that one Body ſhould commit the ſin, and a<g ref="char:EOLhyphen"/>nother Body that never ſinned, be pu<g ref="char:EOLhyphen"/>niſht.
+<pb n="49" facs="tcp:33040:29"/>To this then I anſwer, that the Minor is defective: For in this you ſup<g ref="char:EOLhyphen"/>poſe that the Body is a part of man ca<g ref="char:EOLhyphen"/>pable of Action or Paſſion without, or di<g ref="char:EOLhyphen"/>ſtinct from the Soul: and if it were ſo, I confeſs you are in the right. But it's no ſuch matter. This ſhould have been pro<g ref="char:EOLhyphen"/>ved, but I fear it's too Philoſophical for you. This Body is but a piece of Anima<g ref="char:EOLhyphen"/>ted Clay, and can do nothing, and is good for nothing without the Soul. See Dr. <hi>More</hi> on the point. The evil Spirit cares not for it, if he did, he would not let <hi>Witches</hi> and <hi>Reprobates</hi> be burned. But he knows they ſhall have ſuch a body at the Reſurrection, as is more fit for his purpoſe; in which, the Soul, like <hi>Perillus</hi> in his <hi>Brazen Bull,</hi> may be tormented for ever. So on the other hand, though you ſay it's not to be allow<g ref="char:EOLhyphen"/>ed, never fear it, I'le venture my eternal life upon it, that none will diſalow of the Change of their vile bodies, <hi>when they ſee them faſhioned like unto the glorious body of our Lord Jeſus Chriſt.</hi> The text you bring makes againſt you. I grant, the end of the Reſurrection is, That we might re<g ref="char:EOLhyphen"/>ceive a reward according to the deeds none in the Body, 2 <hi>Cor.</hi> 5. But it doth or ſay, we ſhall receive the reward <hi>in
+<pb n="50" facs="tcp:33040:30"/>the ſame Body</hi> wherein the deeds were done. No, the Apoſtle tell us in the ſame <hi>Chapter,</hi> that this Houſe or Tabernacle (meaning his Body) was but a groan<g ref="char:EOLhyphen"/>ing Burthenſome thing, and deſired to be cloathed with that Houſe which is from Heaven, ſuppoſe a poor Tenant in a thackt Cottage ſhould do his Landlord ſuch faithful Service, that at length he ſhould take him out of that Cottage, and Seat him in one of his beſt Buildings, and therein reward him for his former Ser<g ref="char:EOLhyphen"/>vice, do you think this will not be al<g ref="char:EOLhyphen"/>lowed? or is this to deny rewards?</p>
+            <p>But you ſay you cannot poſſibly under<g ref="char:EOLhyphen"/>ſtand that the <hi>Quakers</hi> intend the ſame Reſurrection the Apoſtle doth in 1 <hi>Cor.</hi> 15. I believe you: For there is a veil over your Underſtanding, which all your Wiſdome cannot remove, <hi>the Lord re<g ref="char:EOLhyphen"/>move it.</hi> And the <hi>Quakers</hi> may ſay the like to me; for they believe ſome five things perhaps which yet I cannot poſſib<g ref="char:EOLhyphen"/>ly underſtand: What then, ſhall I ſpeak evil of that I know not? no, let us wait in the Spirit of Love and Meekneſs, and <hi>God ſhall reveal to us whatſoever he ſees ne<g ref="char:EOLhyphen"/>ceſſary for us in his own time.</hi> Thus, Belo<g ref="char:EOLhyphen"/>ved Friends, I have given you, and all
+<pb n="51" facs="tcp:33040:30"/>that pleaſe to read me, a faithful account why I writ that little Book called <hi>The Twelve Pagan Principles,</hi> and the Rea<g ref="char:EOLhyphen"/>ſons of that Title, together with thoſe Conſiderations; which, in my under<g ref="char:EOLhyphen"/>ſtanding, ought in ſome meaſure to calm the paſſions of thoſe, who at firſt ſight of thoſe Charges (thus ſeperated from all Sayings that might help them) have been haſty to condemn the <hi>Quakers</hi> upon their account. And that I intended nothing but to beget at leaſt a moderate Language, and Behaviour, and to ſtir up others to the ſame work; methinks the great condiſcending and little better than beſeeching way of Arguing I us'd might convince, even <hi>W. R.</hi> himſelf. Had I come forth with a Reſolution to help the <hi>Quakers</hi> to a Victory (though more than I think them ſufficient to their own defenſe, and that their Adverſaries have both wanted and fallen into a con<g ref="char:EOLhyphen"/>federacy) I would not have talked at that ſubmiſſive truckling rate, of putting in, or taking words out of their Sayings to facilitate their being underſtood? No, I would have betook my ſelf to the more laudable Sanctuary of Rhetorick (eſpe<g ref="char:EOLhyphen"/>cially at a Pinch, as <hi>W. R.</hi> doth <hi>page</hi> 37.)
+<pb n="52" facs="tcp:33040:31"/>where Figures, honourable among ſome men, lie ready to overturn theſe Char<g ref="char:EOLhyphen"/>ges with little trouble, if better Reaſon had been wanting: But <hi>W. R.</hi> himſelf ſatisfies you that my <hi>Pen was indifferent,</hi> notwithſtanding he would have me a Quaker, for he ſays, <hi>all along my Book that I have cleared</hi> T. H. <hi>of Forgery:</hi> then I hope <hi>T. H.</hi> his Party cannot be angry. And on the other ſide, the <hi>Quakers</hi> ma<g ref="char:EOLhyphen"/>king no complaint, ſignifies they are not offended with what I writ. And if this be not <hi>Indifferency,</hi> there's none in the world. I have heard as if he commended the en<g ref="char:EOLhyphen"/>deavours of that Quibbling Author of the <hi>Quakers Quibbles,</hi> and that as an in<g ref="char:EOLhyphen"/>different Pen; if ſo, he ſhews great blind<g ref="char:EOLhyphen"/>neſs that faults me of Partiality. I am of that mind, had <hi>W. R.</hi> been guided by this Loving, Meek, and Peaceable Spirit of Chriſt when he began to write, he might have expected a Bleſſing upon his La<g ref="char:EOLhyphen"/>bours; but let him know aſſuredly, that while he is a <hi>Promoter</hi> of theſe unprofita<g ref="char:EOLhyphen"/>ble and diſhonoarable Diſputes, the Lord will not hear his Prayers.</p>
+            <trailer>FINIS.</trailer>
+         </div>
+         <div type="part">
+            <pb n="53" facs="tcp:33040:31"/>
+            <p>NOtwithſtanding the manifeſt Inno<g ref="char:EOLhyphen"/>cency of my Purpoſe, and Inno<g ref="char:EOLhyphen"/>ſenſiveneſs of my words, yet hath <hi>W. R.</hi> publiſhed an abuſive Letter, to which he might very pertinently (if he knew all) have annexed one Line of his Title page, ſaying, <hi>Is this thy kindneſs to thy Friend?</hi> I ſhall give you an account of the Principal matters in the Letter, rela<g ref="char:EOLhyphen"/>ting to my ſelf; but ſay nothing of the latter part of it, which is all in praiſe of him to whom it was ſent; and ſmells too much of daubing and deſign.</p>
+            <div type="section">
+               <head>Some Animadverſions upon a Letter ſent from <hi>D. R.</hi> at <hi>Reading,</hi> to J. I. as <hi>Lon<g ref="char:EOLhyphen"/>don,</hi> concerning <hi>W. L.</hi>
+               </head>
+               <p>IN my Account hereof I ſhall obſerve this Method.</p>
+               <list>
+                  <item>1. I ſhall tell you the Occaſion of it.</item>
+                  <item>2. Somthing of him that Subſcribed it.</item>
+                  <item>3. Of the matter contained in it con<g ref="char:EOLhyphen"/>cerning my ſelf.</item>
+               </list>
+               <p n="1">1. The Occaſion was briefly thus,</p>
+               <p>I the ſaid <hi>W. L.</hi> being at the <hi>Barbican,</hi> Meeting, <hi>Oct.</hi> 9. and with grief of heart obſerving, through the unfair carriage of ſome, how unprofitable it was like to be
+<pb n="54" facs="tcp:33040:32"/>to the People (the generality of whom alſo not ſhewing that Reverence to the matter treated on, though of a Religious nature, and regard to the deſires and Intreaties of thoſe chiefly concerned, that became the weight of the affair) I ſent a Letter to <hi>J. I.</hi> bewailing this, and ſome other un<g ref="char:EOLhyphen"/>chriſtian Paſſages at that time. In this Letter, upon the account of former fami<g ref="char:EOLhyphen"/>liarity, yea and Church Society, never before (but now) diſowned, I called him <hi>Brother;</hi> as we uſually did when we met, But at this time it happened to be offen<g ref="char:EOLhyphen"/>ſive. A little while after I writ the Trea<g ref="char:EOLhyphen"/>tiſe mentioned in the beginning of this. In one place of that Diſcourſe I blamed <hi>T. H.</hi> for leaving out a Sentence of <hi>W. P.</hi>'s which explained his meaning in the mat<g ref="char:EOLhyphen"/>ter of that Charge: This thing <hi>G. W.</hi> ta<g ref="char:EOLhyphen"/>king notice of, bids the <hi>Baptists</hi> conſider how "I, their Friend, and Brother had "rebuked <hi>T. H.</hi> Now began ill blood to ſtir: For ſome <hi>Baptiſts</hi> obſerving the <hi>Quakers</hi> to lay ſome weight upon this <hi>Brotherhood,</hi> thought it greatly concern'd them to cancel that. Nay <hi>W. R.</hi> is ſo troubled at it, that in his paſſion he ſays, <hi>I am a Quaker,</hi> and concludes, <hi>p.</hi> 53. <hi>that I avoid the name only, that I might be ſer<g ref="char:EOLhyphen"/>viceable
+<pb n="55" facs="tcp:33040:32"/>in propagvting their Cauſe,</hi> which is utterly falſe. For though <hi>Paul</hi> made it a motive among the ſimple Idolatrous <hi>Athe<g ref="char:EOLhyphen"/>nians,</hi> &amp; ſo perhaps it may be now among ſome poor weak People, to tell them of their own <hi>Poets;</hi> yet I do not believe Ex<g ref="char:EOLhyphen"/>amples of this kind are of any force now, meerly as ſuch among thoſe that are im<g ref="char:EOLhyphen"/>partial, and but of an ordinary Capacity. However, becauſe I had endeavoured to procure any Charity for the <hi>Quakers,</hi> it muſt be publiſhed, <hi>that I am no Baptiſt,</hi> to let all know, that no real <hi>Baptiſt</hi> will offer to ſpeak a word for a <hi>Quaker.</hi> But I hope they are miſtaken. In order to this, ſome ſent down into the Country where I live, and had a Certificate, <hi>that I had not been in Communion with the Bap<g ref="char:EOLhyphen"/>tists here this ſeven years paſt.</hi> And though this was as much as was needful to ſatiſ<g ref="char:EOLhyphen"/>fie the <hi>Quakers,</hi> that they might not call me a <hi>Baptiſt</hi> any more; yet this did not an<g ref="char:EOLhyphen"/>ſwer the Deſign of ſome. This Certificate was too <hi>fair</hi> &amp; <hi>clean,</hi> I muſt not go off ſo. They wanted ſome dirt, which it ſeems they were reſolved to ſling at me, though they daubed their own fingers in doing it. Down therefore they ſend to <hi>Reading,</hi> where I had lived about 12 years ago,
+<pb n="56" facs="tcp:33040:33"/>and where I had much more reaſon to expect they would miſs of their purpoſe. But I was deceived. For there my old Friend <hi>D. R.</hi> (at whoſe inſtigation I know not) preſently ſends up ſome <hi>Dir<g ref="char:EOLhyphen"/>ty Rags to pin at my back, and ſome Sugar Plums for</hi> Jeremy, all in this Letter. But truly if his Caſe had been mine, I would have put them up in my pocket, and ne<g ref="char:EOLhyphen"/>ver have ſhew'd them, leaſt an intelligent Reader ſhould ſuſpect I had begg'd them. This in ſhort was the Occaſion of this Letter.</p>
+               <p n="2">2. <hi>Concernig this</hi> D. R. <hi>that Subſcribed it, and,</hi> as he ſaith, <hi>by Conſent.</hi> Firſt, it is ſome comfort that I know the Lati<g ref="char:EOLhyphen"/>tude of that word ſo well, that I may be bold to ſay, unleſs there be a very late increaſe, <hi>they need not fear the late Act a<g ref="char:EOLunhyphen"/>gainſt Conventicles.</hi> But <hi>2dly,</hi> as to the Man himſelf, He is one with whom I have had ſuch intimate familiarity, that I may truly ſay of him, as <hi>David</hi> of his Friend, <hi>Pſal.</hi> 55.13. In many things <hi>He was my Guide, and mine Acquaintance, we took ſweet Counſel together, and walked un<g ref="char:EOLhyphen"/>to the places of the Worſhip of God in Com<g ref="char:EOLhyphen"/>pany.</hi> In ſhort, by his perſwaſion chiefly, I left a certain for an uncertain way of
+<pb n="57" facs="tcp:33040:33"/>livelyhood, to my great loſs, that I might be ſerviceable to him and others upon a Chriſtian Account. There we continued in Church Fellowſhip together until the Heat of Perſecution brake all in pieces, and made us Brethren in Tribulation alſo. In which Condition it's well known, none of them was a greater Sufferer than my ſelf; for as much as my Concerns were in <hi>Ireland,</hi> and I could not get Liberty to everſee them. And now for this <hi>Daniel,</hi> without any perſonal provocation, or any other than what he himſelf counts but a piece of folly, <hi>viz. Writing in behalf of the Quakers,</hi> I ſay, for him to break all bonds of Chriſtianity and Friendſhip, publiſh <hi>Fire-ſide,</hi> and <hi>Chamber</hi> Diſcourſes, and private Tranſactions 12 years old, and mix them with falſe, frivolous, and and ſcandalous Conceits of his own; What ſhall I ſay? ſhall I write out the 4th verſe of the 9th of <hi>Jer.</hi> and put in the word Baptiſt before Brother? God for<g ref="char:EOLhyphen"/>bid. <hi>One Swallow makes no Summer.</hi> Al<g ref="char:EOLhyphen"/>though <hi>D. R.</hi> has hereby rendred himſelf unfit for any mans intimate Friendſhip, who has made ſo great a breach of it. yet I hope there are many hundred of the <hi>Baptiſts</hi> that ſcorn this Baſeneſs. But for
+<pb n="58" facs="tcp:33040:34"/>all this I will leſſen his fault as much as I can; for I doubt he was hurried into it by ſome that knew how to work upon his Principle, which is, not <hi>private,</hi> viz. <hi>That unleſs a Believer be Baptized in Wa<g ref="char:EOLhyphen"/>ter, he has no right to any Promiſes in the Goſpel.</hi> Now no marvil if this Zeal which lays the wait of Salvation upon a little Water, as the <hi>Roman Catholicks</hi> do, be eaſily ſtirr'd up to revile and perſecute ſuch as ſay, <hi>this Baptiſm is not Fundamen<g ref="char:EOLhyphen"/>tally neceſſary to Salvation.</hi> Again, Igno<g ref="char:EOLhyphen"/>rance doth in part excuſe any fault, and it's well known he never learned <hi>Illud A<g ref="char:EOLhyphen"/>micitia ſanctum &amp; venerabile Nomen;</hi> nay that he can hardly <hi>read</hi> the Engliſh Rules of Friendſhip; and withal, being an Ene<g ref="char:EOLhyphen"/>my to that <hi>Light within,</hi> which would teach him thoſe Rules, no wonder if he be eaſily provoked to break them under a pretence for Chriſt; as if Chriſtianity and Humanity were inconſiſtent. I wiſh therefore I may be a warning to all, how they make Friendſhip with an angry, or ſuch an illiterate man, as makes Formali<g ref="char:EOLhyphen"/>ties the Subſtance of his Religion.</p>
+               <p>But <hi>3dly, The Matter</hi> concerning me in the Letter, firſt it relates to ſome things done in Priſon, which gives
+<pb n="59" facs="tcp:33040:34"/>him occaſion to ſay, <hi>That I was bla<g ref="char:EOLhyphen"/>med for refuſing to give God thanks for a<g ref="char:EOLhyphen"/>ny of his Mercies, or to joyn with them that did;</hi> which is a great and manifeſt <hi>untruh.</hi> The ſtory in ſhort is this, I was ſomtimes deſired <hi>to ſay Grace</hi> (as it's called) at Din<g ref="char:EOLhyphen"/>ner time, which I was not willing to do, but referred it to others, with whom I did joyn; and ſignified it by my conſtant conformity to thoſe outward Ceremonies which are uſual at ſuch times. And from hence is this Reproach raiſed.</p>
+               <p>The next Charge is, <hi>That I was looked upon by All to be a Quaker.</hi> This word <hi>All</hi> muſt be cut off to the Stumps, and cured with a Figure, or elſe I ſhould prove it a loud — For I can, if need were, pro<g ref="char:EOLhyphen"/>duce hundreds, yea the whole Town in general, that will ſay they never took me for a <hi>Quaker,</hi> (not that I count it any diſgrace to be taken for one, I would have my unkind Friends know, but to ſhew the untruth of this Accuſation.) Neither was there any rational ground for it; for I never was at any <hi>Quakers</hi> Meeting all the time I was there, nor ne<g ref="char:EOLhyphen"/>ver conformed to any of their Formali<g ref="char:EOLhyphen"/>ties either of Geſture or Language. And then what Reaſon any man had to look
+<pb n="60" facs="tcp:33040:35"/>upon me as a <hi>Quaker,</hi> let the Reader judg.</p>
+               <p>As for my being a <hi>Behmaniſt,</hi> I know not what it is; and therefore can ſay no<g ref="char:EOLhyphen"/>thing to it I never ſaw any thing of his writing that I could underſtand, but ſome <hi>Epiſtles;</hi> And perhaps in private Confe<g ref="char:EOLhyphen"/>rence I might commend them: And if this procured me the Name, they might as well have call'd me <hi>Stilling fleetiſt, Greenhillist, Baxteriſt, Cariliſt,</hi> &amp;c. For in theirs, and many other Writings, I have read things worthy of great Com<g ref="char:EOLhyphen"/>mendation. But among all my Names, I wonder he omitted <hi>Jeſuite,</hi> which was more talked of among the Great Men there, than any of the other; and was whiſpered abroad by ſome others ſo long, till at laſt it began to catch fire among ſome weak <hi>Presbyterians;</hi> and then I took a little pains to quench it, though the <hi>Catholicks</hi> themſelves knew it was but an <hi>Ignis fatuus,</hi> or bugbear to fright filly people.</p>
+               <p>In the next place <hi>D. R.</hi> was about to do me ſome kindneſs in this Letter, and tell the Truth of me, But he recollected himſelf (poor man) and thought it not ſeaſonable to do it now, and therefore cuts off that part which might commend
+<pb n="61" facs="tcp:33040:35"/>me: For he ſays, <hi>I am for <g ref="char:V">Ʋ</g>niverſal Communion with All ſorts,</hi> he ſhould have ſaid <hi>(of Good men)</hi> and then he had ſaid right: but leaving that out, he do's me wrong. I know the cauſe of this, he tells you our private Diſcourſes about Mr. <hi>Jeſſe,</hi> whoſe practice of this kind I have ſo much com<g ref="char:EOLhyphen"/>mended, that it's much he did not call me a <hi>Jeſſite.</hi> But that Name w<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>s thought too honorable for me.</p>
+               <p>As for the other traducing Phraſes in the Let<g ref="char:EOLhyphen"/>ter, ſuch as, <hi>Strange Humours, uncertain Fictions, wandering Fancles, giddy Brains, tottering Build<g ref="char:EOLhyphen"/>ings, and rotten Posts,</hi> they are ſo commonly uſed among thoſe, and none but thoſe, <hi>that fall</hi> to ſcol<g ref="char:EOLhyphen"/>ding about Religion, that I think it's greater folly to take notice of them, than it was to Print them. A word in behalf of <hi>G. W.</hi> and I have done.</p>
+               <p>From what hath been ſaid, and what I could farther ſay concerning my Relation to the <hi>Bap<g ref="char:EOLhyphen"/>tiſts,</hi> I do aſſure <hi>W. R.</hi> that <hi>G. W.</hi> might properly call me their <hi>Brother,</hi> according to the Method of their own Diſcipline; For ſince the time I firſt was joyned to them, about <hi>twenty ſeven years paſt.</hi> I never heard the leaſt word of being diſowned before now. And as wandering as <hi>D R.</hi> ſays my fancy is, yet in all this time I never joyned, or commonly Aſſembled with any other People but them. In all their Dangers and greateſt Suffer<g ref="char:EOLhyphen"/>ings I have been Partaker with them, not as it were of Neceſſity, but Choice; and he and o<g ref="char:EOLhyphen"/>thers know I have been more than once invited to Preach among them. It's true indeed I could not conſent to what they call Cloſe Communion in this Country, (though often deſired to it) be<g ref="char:EOLhyphen"/>cauſe of ſome unneceſſary Diviſions among them, which I did hope in time would be removed; of which in Charity I now forbear to mention.</p>
+               <pb n="62" facs="tcp:33040:36"/>
+               <p>To Conclude, therefore though <hi>G. W.</hi> is not to be blamed in this matter; yet had I known before he publiſhed it, I ſhould have deſired him not to mention my Relation to them at this time; And then probably this trouble about it had been pre<g ref="char:EOLhyphen"/>vented. Only I am doubtful whether I ſhould have ſtopt the publiſhing <hi>D. R.</hi>'s Letter, becauſe it was ſo exactly ſquared to the preſent Deſign of my Defamation; and conſequently (as much as in him lay) of my Deſtruction: But I truſt they ſhall never hear of my rendering Evil for Evil to any man. All rhe harm I wiſh the Contrivers of it is, <hi>That the Lord would not lay this Sin to their Charge.</hi>
+               </p>
+               <closer>
+                  <signed>W. L.</signed>
+               </closer>
+            </div>
+            <div type="section">
+               <p>BY theſe two Letters my Name is well known to the Perſons particularly concerned in this Book, and I have no deſire to ſpread it farther; for that Reaſon which a Learned Man gives us in his Preface to EIPHNIKON, or a Trea<g ref="char:EOLhyphen"/>tiſe of Peace, Printed for <hi>N. Brooks,</hi> 1660. His words are theſe.</p>
+               <p>
+                  <q>That my Endeavours (ſaith he) might the rather Proſper, I have concealed my Name, as well knowing that men are wont to make a <hi>God</hi> or a <hi>Devil</hi> of a mans Name. If ſuch or ſuch precious Man ſpeak this or that, <hi>it's received do an Oracle from God;</hi> If the ſame thing be ſpoken by one decryed, as ſuppoſed Heterodox and Er<g ref="char:EOLhyphen"/>ronious, it's eſteemed by the ſame Man, <hi>a Damnable Error.</hi>
+                  </q>
+               </p>
+               <trailer>FINIS.</trailer>
+            </div>
+            <pb facs="tcp:33040:36"/>
+         </div>
+      </body>
+   </text>
+</TEI>
